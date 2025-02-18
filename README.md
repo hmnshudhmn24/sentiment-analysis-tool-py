@@ -28,6 +28,3 @@ This Python-based tool uses **NLTK VADER** to analyze sentiment from text data. 
 ## 📊 Example Output
 - The tool prints **Positive, Negative, or Neutral** sentiment.
 - Generates **bar charts** for sentiment distribution.
-
-## 📜 License
-MIT License
